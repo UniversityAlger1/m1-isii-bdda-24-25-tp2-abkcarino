@@ -1,5 +1,5 @@
 USE LabDatabase;
 GO 
-ALTER TABLE Laboratoire;
+ALTER TABLE Laboratoire
 DROP COLUMN DatFin;
 GO 
